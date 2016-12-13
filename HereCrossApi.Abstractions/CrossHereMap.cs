@@ -15,7 +15,7 @@ namespace HereCrossApi.Abstractions
 			Content = new StackLayout
 			{
 				Children = {
-					new Label { Text = "Hello Page 1" }
+					new Label { Text = "Hello Page" }
 				}
 			};
 		}
