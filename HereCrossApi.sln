@@ -5,9 +5,9 @@ VisualStudioVersion = 15.0.25928.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HereCrossApi.Abstractions", "HereCrossApi.Abstractions\HereCrossApi.Abstractions.csproj", "{67F9D3A8-F71E-4428-913F-C37AE82CDB24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HereCrossApi.Droid", "HereCrossApi.Droid.Droid\HereCrossApi.Droid.csproj", "{8F1CA5F9-438B-41DA-A72E-DFC0DE5AFB01}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HereCrossApi.Droid", "HereCrossApi.Droid\HereCrossApi.Droid.csproj", "{8F1CA5F9-438B-41DA-A72E-DFC0DE5AFB01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HereCrossApi.iOS", "HereCrossApi.Droid.iOS\HereCrossApi.iOS.csproj", "{6C4F2ED3-EC09-49E1-A61E-FFA7F7506C1A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HereCrossApi.iOS", "HereCrossApi.iOS\HereCrossApi.iOS.csproj", "{6C4F2ED3-EC09-49E1-A61E-FFA7F7506C1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

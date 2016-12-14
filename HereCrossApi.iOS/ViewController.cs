@@ -2,7 +2,7 @@
 
 using UIKit;
 
-namespace HereCrossApi.Droid.iOS
+namespace HereCrossApi.iOS
 {
 	public partial class ViewController : UIViewController
 	{

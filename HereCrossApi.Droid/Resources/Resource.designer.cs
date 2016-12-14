@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("HereCrossApi.Droid.Droid.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("HereCrossApi.Droid.Resource", IsApplication=true)]
 
-namespace HereCrossApi.Droid.Droid
+namespace HereCrossApi.Droid
 {
 	
 	

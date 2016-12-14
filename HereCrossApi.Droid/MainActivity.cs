@@ -7,9 +7,9 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 
-namespace HereCrossApi.Droid.Droid
+namespace HereCrossApi.Droid
 {
-	[Activity (Label = "HereCrossApi.Droid.Droid", MainLauncher = true, Icon = "@drawable/icon")]
+	[Activity (Label = "HereCrossApi.Droid", MainLauncher = true, Icon = "@drawable/icon")]
 	public class MainActivity : Activity
 	{
 		int count = 1;

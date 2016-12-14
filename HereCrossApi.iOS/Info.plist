@@ -5,7 +5,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>HereCrossApi.Droid.iOS</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.your-company.HereCrossApi.Droid.iOS</string>
+	<string>com.your-company.HereCrossApi.iOS</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>

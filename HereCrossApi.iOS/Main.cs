@@ -5,7 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
-namespace HereCrossApi.Droid.iOS
+namespace HereCrossApi.iOS
 {
 	public class Application
 	{

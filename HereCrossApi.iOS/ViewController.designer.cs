@@ -7,7 +7,7 @@ using Foundation;
 using System.CodeDom.Compiler;
 using UIKit;
 
-namespace HereCrossApi.Droid.iOS
+namespace HereCrossApi.iOS
 {
 	[Register ("ViewController")]
 	partial class ViewController
